@@ -18,6 +18,12 @@ let point:{x:number; y:number}  ={
 }
 
 //function
-const logNumber: (i:number)=>void  = (i: number)=>{
+/**
+ * 
+ * @param i 
+ */
+const logNumber: (i: number)=>void  = (i: number)=>{
   console.log(i)
 }
+
+export {};
